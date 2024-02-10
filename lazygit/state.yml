@@ -1,0 +1,29 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/danielangrh/.config
+- /home/danielangrh/code/cfam/codecrafters-redis-c
+- /home/danielangrh/code/cfam/CS537/Unix-Shell
+- /home/danielangrh/code/js/bp8fitness-frontend
+- /home/danielangrh/code/go/web-api
+- /home/danielangrh/code/cfam/playground
+- /home/danielangrh/code/go/mobile-api
+- /home/danielangrh/code/rust/codecrafters-http-server-rust
+- /home/danielangrh/code/go/grpc-gateway-example
+- /home/danielangrh/code/rust/auth-service
+- /home/danielangrh/code/go/codecrafters-dns-server-go
+- /home/danielangrh/code/go/authservice
+- /home/danielangrh/code/cfam/codecrafters-bittorrent-c
+startuppopupversion: 5
+customcommandshistory:
+- git commit --allow-empty -m 'test' && git push origin master
+- git remote add origin git@github.com:peacewalker122/c-tee.git
+- git branch -M main
+- git cherry-pick 00669bd09268a829dd154a64459e2d2a7f247e33
+- git cherrypick 00669bd09268a829dd154a64459e2d2a7f247e33
+- h
+- qa
+- git remote add origin git@github.com:peacewalker122/auth-service.git
+- git remote add origin git@github.com:peacewalker122/grpc-gateway-example.git
+- git remote add origin git@github.com:peacewalker122/c-shell.git
+hidecommandlog: false
+ignorewhitespaceindiffview: false
